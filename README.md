@@ -2,6 +2,8 @@
 
 #### Description
 This is a proximity chat script. With a few commands such as Twitter, OOC and Local Me
+Contains new modifications for roleplay
+The script is from ESX Framework, this is just a modification 
 
 ## Download & Installation
 
@@ -13,15 +15,15 @@ fvm install --save --folder=esx esx-org/esx_rpchat
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_rpchat [esx]/esx_rpchat
+git clone https://github.com/Sonklol/new-rpcha [esx]/rpchat
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_rpchat/archive/master.zip
+- Download https://github.com/Sonklol/new-rpchat/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
-- Add `start esx_rpchat` to your server.cfg
+- Add `start rpchat` to your server.cfg
 
 # Legal
 ### License
