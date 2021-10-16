@@ -1,9 +1,9 @@
 # esx_rpchat
 
 #### Description
-This is a proximity chat script. With a few commands such as Twitter, OOC and Local Me
-Contains new modifications for roleplay
-The script is from ESX Framework, this is just a modification 
+- This is a proximity chat script. With a few commands such as Twitter, OOC and Local Me
+- Contains new modifications for roleplay
+- The script is from ESX Framework, this is just a modification 
 
 ## Download & Installation
 
