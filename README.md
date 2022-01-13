@@ -14,8 +14,9 @@ fvm install --save --folder=esx esx-org/esx_rpchat
 
 ### Using Git
 ```
+apt install git
 cd resources
-git clone https://github.com/Sonklol/new-rpcha [esx]/rpchat
+git clone https://github.com/Sonklol/new-rpchat.git
 ```
 
 ### Manually
