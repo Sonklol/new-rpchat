@@ -23,7 +23,7 @@ git clone https://github.com/Sonklol/new-rpcha [esx]/rpchat
 - Put it in the `[esx]` directory
 
 ## Installation
-- Add `start rpchat` to your server.cfg
+- Add `ensure rpchat` to your server.cfg
 
 # Legal
 ### License
